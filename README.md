@@ -18,3 +18,4 @@ Make sure you have Python installed, then install the required Python packages b
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+🚀 **[Click here to try the Live Web App](https://ml--model-jc9updkmrjfxgdtm4hgrxq.streamlit.app/)**
